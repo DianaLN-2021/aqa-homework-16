@@ -21,7 +21,6 @@ public class AppTest {
     @DataProvider(name = "numbers")
     public static Object[][] numbers() {
         return new Object[][]{
-
                 {
                         new int[]{1, 2, 3, 4},
                         24
